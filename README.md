@@ -1,4 +1,4 @@
-# tars
+# Tars
 
 News App
 
